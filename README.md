@@ -1,4 +1,4 @@
-# 🐾 My Pets Heaven Database Management System
+# My Pets Heaven Database Management System
 
 ## Project Overview
 
